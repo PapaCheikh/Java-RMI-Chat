@@ -27,8 +27,7 @@ import javax.swing.border.Border;
 
 /**
  * 
- * @author Daragh Walshe 	B00064428
- * RMI Assignment 2		 	April 2015
+ * @author imprevisible
  *
  */
 public class ClientRMIGUI extends JFrame implements ActionListener{
