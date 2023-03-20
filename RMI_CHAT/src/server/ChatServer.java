@@ -13,8 +13,7 @@ import client.ChatClient3IF;
 
 /**
  * 
- * @author Daragh Walshe 	B00064428
- * RMI Assignment 2		 	April 2015
+ * @author Papa Cheikh GNINGUE
  *
  */
 public class ChatServer extends UnicastRemoteObject implements ChatServerIF {
